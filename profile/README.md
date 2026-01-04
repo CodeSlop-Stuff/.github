@@ -10,7 +10,8 @@ Do not try and add anything to this organisation via pull requests, as it will n
 
 Please dont expect any high levels of quality here as it is entirely experimentation between us and comes with no guarantee of functionality.
 
-Potentially one day more languages may be used here for learning but for the time being it is only C#
+One day, more languages may be used here for learning but for the time being it is only C#
+
 
 
 
